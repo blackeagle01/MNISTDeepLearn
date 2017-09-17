@@ -4,7 +4,9 @@ I have already trained the models on my machine. To retrain the models just dele
 
 Run:
 
-pip install -r requirements.txt. Happy experimenting!
+* sudo pip install -r requirements.txt *  first.
+
+happy experimenting!
 
 
 The blog for this repository can be found [here](https://blackeagle01.github.io/2017/Deep-Learning-with-MNIST/)
