@@ -4,7 +4,7 @@ I have already trained the models on my machine. To retrain the models just dele
 
 Run:
 
-* sudo pip install -r requirements.txt *  first.
+*sudo pip install -r requirements.txt*  first.
 
 happy experimenting!
 
