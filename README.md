@@ -1,6 +1,8 @@
 # MNISTDeepLearn
 
 ![Keras](/images/keras.png)
+<div class="divider"></div>
+
 Performing Deep Learning on MNIST Digits Database!
 I have already trained the models on my machine. To retrain the models just delete the .h5 extension files from your cloned repository.
 
