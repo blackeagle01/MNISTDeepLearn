@@ -2,5 +2,6 @@ numpy
 scipy
 sklearn
 keras
+h5py
 
 #Run sudo pip install -r requirements.txt
