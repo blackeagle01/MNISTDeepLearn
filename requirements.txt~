@@ -1,0 +1,6 @@
+numpy
+scipy
+sklearn
+keras
+
+#Run pip install -r requirements.txt
